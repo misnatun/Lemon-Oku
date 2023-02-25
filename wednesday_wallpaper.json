@@ -19,7 +19,7 @@
       "backup_ads_rewards": "53c50ad81b600048",
 
       "counter": "0",
-      "interval_intertitial": "2",
+      "interval_intertitial": "5",
       "interval_for_native": "6",
       "switch_banner_natives_ads": "1",
       "on_off_native_listview": "1",
