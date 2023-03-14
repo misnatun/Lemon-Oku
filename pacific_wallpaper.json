@@ -1,26 +1,26 @@
 {
 	"ADS": [
 		{
-			"select_main_ads": "ADMOB",
-			"select_backup_ads": "APPLOVIN-D",
+			"select_main_ads": "APPLOVIN-M",
+			"select_backup_ads": "ADMOB",
 			
-			"open_ads_admob": "ca-app-pub-3618565418558268/4926857575",
+			"open_ads_admob": "750edb20ec7573af",
 			"open_ads_alien": "null",
 			"switch_open_ads": "1",
-			"select_open_ads": "ADMOB",
+			"select_open_ads": "APPLOVIN-M",
 			
-			"main_ads_banner": "ca-app-pub-3618565418558268/5280977149",
-			"main_ads_intertitial": "ca-app-pub-3618565418558268/7784669790",
-			"main_ads_native": "ca-app-pub-3618565418558268/4019866366",
+			"main_ads_banner": "e574abc079456bae",
+			"main_ads_intertitial": "313992fcc848652d",
+			"main_ads_native": "cba8f474ad3ee4a0",
 			
-			"backup_ads_banner": "a2ee22c035ed6bd3",
-			"backup_ads_intertitial": "6006c30bea8067ae",
-			"backup_ads_native": "null",
+			"backup_ads_banner": "ca-app-pub-3618565418558268/5280977149",
+			"backup_ads_intertitial": "ca-app-pub-3618565418558268/7784669790",
+			"backup_ads_native": "ca-app-pub-3618565418558268/4019866366",
 			
 			"keyword_home_fragment": "pacific rim",
 			"grid_wall": "3",
 			"show_category": "1",
-			"interstitial_counter": "5",
+			"interstitial_counter": "3",
 			"native_ad_index": "9",
 			
 			"initialize_sdk": "",
