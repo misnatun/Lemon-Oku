@@ -4,10 +4,10 @@
 			"select_main_ads": "APPLOVIN-M",
 			"select_backup_ads": "ADMOB",
 			
-			"open_ads_admob": "750edb20ec7573af",
+			"open_ads_admob": "ca-app-pub-3618565418558268/4926857575",
 			"open_ads_alien": "null",
 			"switch_open_ads": "1",
-			"select_open_ads": "APPLOVIN-M",
+			"select_open_ads": "ADMOB",
 			
 			"main_ads_banner": "e574abc079456bae",
 			"main_ads_intertitial": "313992fcc848652d",
