@@ -10,7 +10,7 @@
 
       "main_ads_banner": "ca-app-pub-3618565418558268/4750943817",
       "main_ads_intertitial": "ca-app-pub-3618565418558268/4479481078",
-      "main_ads_natives": "ca-app-pub-3618565418558268/6119865809",
+      "main_ads_natives": "ca-app-pub-3618565418558268/6119865809x",
       "main_ads_rewards": "ca-app-pub-3618565418558268/3493702463",
 
       "backup_ads_banner": "a2ee22c035ed6bd3",
@@ -19,10 +19,10 @@
       "backup_ads_rewards": "53c50ad81b600048",
 
       "counter": "0",
-      "interval_intertitial": "5",
+      "interval_intertitial": "3",
       "interval_for_native": "6",
       "switch_banner_natives_ads": "1",
-      "on_off_native_listview": "1",
+      "on_off_native_listview": "0",
 
       "initialize_sdk": "",
       "initialize_sdk_backup_ads": "",
