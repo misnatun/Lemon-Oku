@@ -6,8 +6,8 @@
 			
 			"open_ads_admob": "ca-app-pub-3618565418558268/4926857575x",
 			"open_ads_alien": "null",
-			"switch_open_ads": "1",
-			"select_open_ads": "ADMOB",
+			"switch_open_ads": "0",
+			"select_open_ads": "APPLOVIN-M",
 			
 			"main_ads_banner": "e574abc079456bae",
 			"main_ads_intertitial": "313992fcc848652d",
