@@ -4,7 +4,7 @@
 			"select_main_ads": "APPLOVIN-M",
 			"select_backup_ads": "ADMOB",
 			
-			"open_ads_admob": "ca-app-pub-3618565418558268/1323044129x",
+			"open_ads_admob": "ca-app-pub-3618565418558268/1323044129",
 			"open_ads_alien": "null",
 			"switch_open_ads": "1",
 			"select_open_ads": "ADMOB",
@@ -13,9 +13,9 @@
 			"main_ads_intertitial": "f236baad9d8c3431",
 			"main_ads_native": "1646fa6f2e244bda",
 			
-			"backup_ads_banner": "ca-app-pub-3618565418558268/9201534140x",
-			"backup_ads_intertitial": "ca-app-pub-3618565418558268/9337265517x",
-			"backup_ads_native": "ca-app-pub-3618565418558268/9880739732x",
+			"backup_ads_banner": "ca-app-pub-3618565418558268/9201534140",
+			"backup_ads_intertitial": "ca-app-pub-3618565418558268/9337265517",
+			"backup_ads_native": "ca-app-pub-3618565418558268/9880739732",
 			
 			"keyword_home_fragment": "midoriya izuku",
 			"grid_wall": "3",
