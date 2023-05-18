@@ -51,7 +51,7 @@
       "unity_interstitial_placement_id": "video",
 	  
       "applovin_banner_unit_id": "8f90b84549b7c8fd",
-      "applovin_interstitial_unit_id": "e82ca92e12b98d50",
+      "applovin_interstitial_unit_id": "none",
       "applovin_native_manual_unit_id": "1aca086dc56548d1",
       "applovin_open_ad_unit_id": "2e5167104940758e",
 	  
@@ -62,7 +62,7 @@
       "ironsource_banner_id": "DefaultBanner",
       "ironsource_interstitial_id": "DefaultInterstitial",
 	  
-      "interstitial_ad_interval": 3,
+      "interstitial_ad_interval": 2,
 	  
       "native_ad_index_grid2": 2,
       "native_ad_index_grid3": 3,
